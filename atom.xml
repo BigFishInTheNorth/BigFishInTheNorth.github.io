@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-11T09:54:21.522Z</updated>
+  <updated>2016-09-11T10:03:35.208Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,14 +20,14 @@
     <link href="http://yoursite.com/2016/09/11/2016-09-11-Hello%20Woeld/"/>
     <id>http://yoursite.com/2016/09/11/2016-09-11-Hello Woeld/</id>
     <published>2016-09-11T08:09:49.000Z</published>
-    <updated>2016-09-11T09:54:21.522Z</updated>
+    <updated>2016-09-11T10:03:35.208Z</updated>
     
-    <content type="html"><![CDATA[<p><em>Hello World!</em><br>借助github page + hexo的经典搭配，我梦想中的blog终于面世啦！<br><del>（以后叫我站长大人可好）</del><br>这个博客主要的用处在于po一些成系统的经验知识以及自己开发的项目<br>如果可能的话，当然希望它能够更酷一些~<br>要维护它还要学很多很多很多的东西TAT,前端果然是个大坑<del>(其实啥都是坑)</del><br><strong>总之加油吧！</strong>  </p>
+    <content type="html"><![CDATA[<p><em>Hello World!</em><br>借助<code>github page + hexo</code>的经典搭配，我梦想中的blog终于面世啦！<br><del>（以后叫我站长大人可好）</del><br>这个博客主要的用处在于po一些成系统的经验知识以及自己开发的项目<br>如果可能的话，当然希望它能够更酷一些~<br>要维护它还要学很多很多很多的东西TAT,前端果然是个大坑<del>(其实啥都是坑)</del><br><strong>总之加油吧！</strong>  </p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;em&gt;Hello World!&lt;/em&gt;&lt;br&gt;借助github page + hexo的经典搭配，我梦想中的blog终于面世啦！&lt;br&gt;&lt;del&gt;（以后叫我站长大人可好）&lt;/del&gt;&lt;br&gt;这个博客主要的用处在于po一些成系统的经验知识以及自己开发的项目&lt;br&gt;如果可能
+      &lt;p&gt;&lt;em&gt;Hello World!&lt;/em&gt;&lt;br&gt;借助&lt;code&gt;github page + hexo&lt;/code&gt;的经典搭配，我梦想中的blog终于面世啦！&lt;br&gt;&lt;del&gt;（以后叫我站长大人可好）&lt;/del&gt;&lt;br&gt;这个博客主要的用处在于po一些成系统的经验知识以及自己
     
     </summary>
     
