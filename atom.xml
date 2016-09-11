@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-11T09:10:35.042Z</updated>
+  <updated>2016-09-11T09:13:04.430Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,17 +17,17 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/09/11/Hello-World-0/"/>
-    <id>http://yoursite.com/2016/09/11/Hello-World-0/</id>
+    <link href="http://yoursite.com/2016/09/11/2016-09-10-%E4%B8%BB%E9%A2%98%E4%BB%8B%E7%BB%8D%E6%96%87%E7%AB%A0/"/>
+    <id>http://yoursite.com/2016/09/11/2016-09-10-主题介绍文章/</id>
     <published>2016-09-11T08:09:49.000Z</published>
-    <updated>2016-09-11T09:10:35.042Z</updated>
+    <updated>2016-09-11T09:13:04.430Z</updated>
     
-    <content type="html"><![CDATA[<p><em>Hello World!</em><br>借助github page + hexo的经典搭配，我梦想中的blog终于面世啦！<br><del>（以后叫我站长大人可好）</del><br>然而要维护它还要学很多很多很多的东西TAT,前端果然是个大坑<del>其实啥都是坑</del><br><strong>总之加油吧！</strong>  </p>
+    <content type="html"><![CDATA[<p><em>Hello World!</em><br>借助github page + hexo的经典搭配，我梦想中的blog终于面世啦！<br><del>（以后叫我站长大人可好）</del><br>然而要维护它还要学很多很多很多的东西TAT,前端果然是个大坑<del>(其实啥都是坑)</del><br><strong>总之加油吧！</strong>  </p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;em&gt;Hello World!&lt;/em&gt;&lt;br&gt;借助github page + hexo的经典搭配，我梦想中的blog终于面世啦！&lt;br&gt;&lt;del&gt;（以后叫我站长大人可好）&lt;/del&gt;&lt;br&gt;然而要维护它还要学很多很多很多的东西TAT,前端果然是个大坑&lt;del&gt;其实啥都是
+      &lt;p&gt;&lt;em&gt;Hello World!&lt;/em&gt;&lt;br&gt;借助github page + hexo的经典搭配，我梦想中的blog终于面世啦！&lt;br&gt;&lt;del&gt;（以后叫我站长大人可好）&lt;/del&gt;&lt;br&gt;然而要维护它还要学很多很多很多的东西TAT,前端果然是个大坑&lt;del&gt;(其实啥都
     
     </summary>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>主题介绍文章</title>
-    <link href="http://yoursite.com/2016/09/10/hello-world/"/>
-    <id>http://yoursite.com/2016/09/10/hello-world/</id>
+    <link href="http://yoursite.com/2016/09/10/2016-09-11-Hello%20World/"/>
+    <id>http://yoursite.com/2016/09/10/2016-09-11-Hello World/</id>
     <published>2016-09-10T02:38:39.376Z</published>
     <updated>2016-09-11T08:08:59.865Z</updated>
     
