@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-10T02:57:34.541Z</updated>
+  <updated>2016-09-11T09:10:35.042Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,10 +17,31 @@
   
   <entry>
     <title>Hello World</title>
+    <link href="http://yoursite.com/2016/09/11/Hello-World-0/"/>
+    <id>http://yoursite.com/2016/09/11/Hello-World-0/</id>
+    <published>2016-09-11T08:09:49.000Z</published>
+    <updated>2016-09-11T09:10:35.042Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>Hello World!</em><br>借助github page + hexo的经典搭配，我梦想中的blog终于面世啦！<br><del>（以后叫我站长大人可好）</del><br>然而要维护它还要学很多很多很多的东西TAT,前端果然是个大坑<del>其实啥都是坑</del><br><strong>总之加油吧！</strong>  </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;Hello World!&lt;/em&gt;&lt;br&gt;借助github page + hexo的经典搭配，我梦想中的blog终于面世啦！&lt;br&gt;&lt;del&gt;（以后叫我站长大人可好）&lt;/del&gt;&lt;br&gt;然而要维护它还要学很多很多很多的东西TAT,前端果然是个大坑&lt;del&gt;其实啥都是
+    
+    </summary>
+    
+    
+      <category term="建站相关" scheme="http://yoursite.com/tags/%E5%BB%BA%E7%AB%99%E7%9B%B8%E5%85%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>主题介绍文章</title>
     <link href="http://yoursite.com/2016/09/10/hello-world/"/>
     <id>http://yoursite.com/2016/09/10/hello-world/</id>
     <published>2016-09-10T02:38:39.376Z</published>
-    <updated>2016-09-10T02:57:34.541Z</updated>
+    <updated>2016-09-11T08:08:59.865Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
