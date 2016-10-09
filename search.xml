@@ -5,7 +5,7 @@
     
     <entry>
       <title><![CDATA[qsort函数]]></title>
-      <url>http://yoursite.com/2016/10/08/2016-10-8-qsort%E5%87%BD%E6%95%B0/</url>
+      <url>http://yoursite.com/2016/10/08/qsort%E5%87%BD%E6%95%B0/</url>
       <content type="html"><![CDATA[<p>qsort包含在<stdlib.h>头文件中，此函数根据你给的比较条件进行快速排序，通过指针移动实现排序。排序之后的结果仍然放在原数组中。使用qsort函数必须自己写一个比较函数。</stdlib.h></p>
 <p>函数原型：<br><figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">void qsort(void *base, size_t num, size_t width, int (__cdecl*compare)(const void*,const void*));</div></pre></td></tr></table></figure></p>
 <p>用法以及参数说明：</p>
