@@ -285,6 +285,115 @@
             
               
                 
+                <a class="post-title-link" href="/2016/10/08/2016-10-8-qsort函数/" itemprop="url">
+                  qsort函数
+                </a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+            <span class="post-meta-item-text">发表于</span>
+            <time itemprop="dateCreated" datetime="2016-10-08T22:18:22+08:00" content="2016-10-08">
+              2016-10-08
+            </time>
+          </span>
+
+          
+
+          
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/2016/10/08/2016-10-8-qsort函数/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2016/10/08/2016-10-8-qsort函数/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+
+          
+          
+
+          
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <p>qsort包含在<stdlib.h>头文件中，此函数根据你给的比较条件进行快速排序，通过指针移动实现排序。排序之后的结果仍然放在原数组中。使用qsort函数必须自己写一个比较函数。</p>
+<p>函数原型：<br><figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">void qsort(void *base, size_t num, size_t width, int (__cdecl*compare)(const void*,const void*));</div></pre></td></tr></table></figure></p>
+<p>用法以及参数说明：</p>
+<p>Sorts the num elements of the array pointed by base, each element size bytes long, using the comparator function to determine the order.</p>
+<p>The sorting algorithm used by this function compares pairs of values by calling the specified comparator function with two pointers to elements of the array.</p>
+<p>The function does not return any value, but modifies the content of the array pointed by base reordering its elements to the newly sorted order.</p>
+<p>base Pointer to the first element of the array to be sorted.(数组起始地址)<br>num Number of elements in the array pointed by base.(数组元素个数)<br>size Size in bytes of each element in the array.(每一个元素的大小)<br>comparator Function that compares two elements.(函数指针，指向比较函数)<br>1、The function must accept two parameters that are pointers to elements, type-casted as void*. These parameters should be cast back to some data type and be compared.<br>2、The return value of this function should represent whether elem1 is considered less than, equal to, or greater than elem2 by returning, respectively, a negative value, zero or a positive value.<br>Return Value none (无返回值)</p>
+          <div class="post-more-link text-center">
+            <a class="btn" href="/2016/10/08/2016-10-8-qsort函数/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+        
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <div>
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+
+
+    
+      
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                
                 <a class="post-title-link" href="/2016/09/11/2016-09-11-Hello Woeld/" itemprop="url">
                   Hello World
                 </a>
@@ -513,7 +622,7 @@
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
             <a href="/archives">
-              <span class="site-state-item-count">2</span>
+              <span class="site-state-item-count">3</span>
               <span class="site-state-item-name">日志</span>
             </a>
           </div>
@@ -523,7 +632,7 @@
           
             <div class="site-state-item site-state-tags">
               <a href="/tags">
-                <span class="site-state-item-count">1</span>
+                <span class="site-state-item-count">3</span>
                 <span class="site-state-item-name">标签</span>
               </a>
             </div>
